@@ -1,0 +1,18 @@
+.tumo-logo {
+  width: 100px;
+}
+
+.nav-icon {
+  width: 32px;
+  margin-left: 2em;
+  cursor: pointer;
+}
+
+.user-name {
+  right: 0px;
+  color: white;
+}
+
+.global-nav {
+  height: 57px;
+}

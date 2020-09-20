@@ -1,0 +1,16 @@
+.text-secondary{
+    color: #6c757d!important;
+
+}
+.display-4 {
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+.form{
+    margin-top: 48px;
+
+}
+.text-decoration-none{
+    color: green;
+}
